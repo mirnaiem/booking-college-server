@@ -1,0 +1,67 @@
+[
+ {
+  "collegeName": "Dhaka College",
+  "graduatePicture": "https://img.freepik.com/free-photo/graduation-concept-with-students-holding-blank-certificate-template_23-2148201847.jpg?size=626&ext=jpg&ga=GA1.2.1710214001.1688810583&semt=ais",
+  "researchPaper1Title": "Advancements in Computer Science",
+  "researchPaper1Link": "https://www.researchgate.net/publication/253923942_Advances_in_Computer_and_Information_Sciences",
+  "researchPaper2Title": "Social Sciences: A Comprehensive Study",
+  "researchPaper2Link": "https://www.researchgate.net/publication/345981416_UNDERSTANDING_SOCIAL_SCIENCE_RESEARCH_AN_OVERVIEW"
+ },
+ {
+  "collegeName": "Chittagong College",
+  "graduatePicture": "https://img.freepik.com/premium-photo/group-students-mantles-are-standing-corridor_85574-913.jpg?size=626&ext=jpg&ga=GA1.2.1710214001.1688810583&semt=ais",
+  "researchPaper1Title": "Marine Biology Research in Chittagong Coastal Region",
+  "researchPaper1Link": "https://www.researchgate.net/publication/235354652_Biological_Aspects_of_the_Coastal_and_Marine_Environment_of_Bangladesh",
+  "researchPaper2Title": "Environmental Studies and Conservation Efforts",
+  "researchPaper2Link": "https://www.researchgate.net/publication/338955297_Conservation_and_the_Environment"
+},
+ 
+ {
+  "collegeName": "Rajshahi College",
+  "graduatePicture": "https://img.freepik.com/free-photo/multinational-graduates-male-female-celebrating-graduation-university-campus-removing-their-graduation-hats-smiling-camera_496169-1297.jpg?size=626&ext=jpg&ga=GA1.2.1710214001.1688810583&semt=ais",
+  "researchPaper1Title": "History and Culture of Rajshahi Region",
+  "researchPaper1Link": "https://www.questjournals.org/jrhss/papers/vol8-issue12/4/G08124152.pdf",
+  "researchPaper2Title": "Economic Development and Agriculture",
+  "researchPaper2Link": "https://www.researchgate.net/publication/299691971_Agriculture_and_Economic_Development"
+ },
+ {
+  "collegeName": "Comilla Victoria Government College",
+  "graduatePicture": "https://img.freepik.com/free-photo/celebration-education-graduation-student-success-learning-concept_53876-147438.jpg?size=626&ext=jpg&ga=GA1.2.1710214001.1688810583&semt=ais",
+  "researchPaper1Title": "Literary Heritage of Comilla Region",
+      "researchPaper1Link": "https://www.researchgate.net/publication/327797189_Shalban_ViharaComillaMaynamatiBanglades",
+      "researchPaper2Title": "Historical Monuments and Architecture",
+      "researchPaper2Link": "https://core.ac.uk/download/pdf/61806253.pdf"
+ },
+ {
+  "collegeName": "Notre Dame College, Dhaka",
+  "graduatePicture": "https://img.freepik.com/premium-photo/students-university-people-wearing-mantles-group-students_115086-788.jpg?size=626&ext=jpg&ga=GA1.1.1710214001.1688810583&semt=ais",
+  "researchPaper1Title": "Education System: Challenges and Opportunities",
+      "researchPaper1Link": "https://www.researchgate.net/publication/349126023_Issues_and_Challenges_in_Education",
+      "researchPaper2Title": "Cultural Diversity and Integration",
+      "researchPaper2Link": "https://www.researchgate.net/publication/343940594_Multiculturalism_and_Integration_Challenges_Strategies_and_Prospects_of_Students_Integration_in_Educational_Environment_and_Society"
+ },
+ {
+  "collegeName": "Government Titumir College",
+  "graduatePicture": "https://img.freepik.com/premium-photo/happy-university-graduates-throwing-their-graduation-caps-into-air_627829-10090.jpg?size=626&ext=jpg&ga=GA1.1.1710214001.1688810583&semt=ais",
+  "researchPaper1Title": "Role of Higher Education in Socioeconomic Development",
+      "researchPaper1Link": "https://www.researchgate.net/publication/320912590_The_Role_of_Higher_Education_in_the_Socio-Economic_Development_of_Peripheral_Regions",
+      "researchPaper2Title": "Climate Change and Sustainable Solutions",
+      "researchPaper2Link": "https://www.researchgate.net/publication/350764166_Effects_of_climate_change_on_environmental_sustainability"
+ },
+ {
+  "collegeName": "Dhaka City College",
+  "graduatePicture": "https://img.freepik.com/premium-photo/student-education-school-academic-friends_53876-38896.jpg?size=626&ext=jpg&ga=GA1.1.1710214001.1688810583&semt=ais",
+  "researchPaper1Title": "Urbanization and Urban Planning",
+      "researchPaper1Link": "https://www.researchgate.net/publication/357469538_Urbanization_in_Bangladesh",
+      "researchPaper2Title": "Technological Innovations and Impact",
+      "researchPaper2Link": "https://www.researchgate.net/publication/353007338_Impact_of_Technological_Innovation_Research_and_Development_on_the_Defense_Economy_-_Iran_Country"
+ },
+ {
+  "collegeName": "Jahangirnagar University College",
+  "graduatePicture": "https://img.freepik.com/free-photo/happy-graduated-students_23-2148522262.jpg?size=626&ext=jpg&ga=GA1.1.1710214001.1688810583&semt=ais",
+  "researchPaper1Title": "Biodiversity Conservation and Ecological Balance",
+  "researchPaper1Link": "https://www.researchgate.net/publication/342625136_Necessity_of_Ecological_Balance_for_Widespread_Biodiversity",
+  "researchPaper2Title": "Rural Development and Livelihood",
+  "researchPaper2Link": "https://www.researchgate.net/publication/228965216_Livelihood_Perspectives_and_Rural_Development"
+ }
+]
