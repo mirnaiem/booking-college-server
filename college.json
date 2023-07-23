@@ -1,67 +1,300 @@
 [
  {
-  "collegeName": "Dhaka College",
-  "graduatePicture": "https://img.freepik.com/free-photo/graduation-concept-with-students-holding-blank-certificate-template_23-2148201847.jpg?size=626&ext=jpg&ga=GA1.2.1710214001.1688810583&semt=ais",
-  "researchPaper1Title": "Advancements in Computer Science",
-  "researchPaper1Link": "https://www.researchgate.net/publication/253923942_Advances_in_Computer_and_Information_Sciences",
-  "researchPaper2Title": "Social Sciences: A Comprehensive Study",
-  "researchPaper2Link": "https://www.researchgate.net/publication/345981416_UNDERSTANDING_SOCIAL_SCIENCE_RESEARCH_AN_OVERVIEW"
+ "collegeImage": "https://i.ibb.co/7v74gQQ/download-3.jpg",
+ "collegeName": "Dhaka College",
+ "admissionDates": "August 1 - September 30",
+ "admissionProcess": "Admissions are done through an online application form. Shortlisted candidates will have to appear for an entrance exam and interview.",
+ "events": [
+  {
+    "eventName": "Freshers' Welcome Party",
+    "date": "September 10",
+    "location": "College Auditorium",
+    "description": "A fun-filled event to welcome new students and introduce them to college life."
+  },
+  {
+    "eventName": "Tech Fest",
+    "date": "November 20-22",
+    "location": "College Campus",
+    "description": "A technical extravaganza showcasing the innovative projects and talents of students."
+  }
+],
+"researchWorks": [
+ {
+   "title": "Study on Climate Change",
+   "faculty": "Dr. John Smith",
+   "description": "Research analyzing the impact of climate change on local ecosystems."
  },
  {
-  "collegeName": "Chittagong College",
-  "graduatePicture": "https://img.freepik.com/premium-photo/group-students-mantles-are-standing-corridor_85574-913.jpg?size=626&ext=jpg&ga=GA1.2.1710214001.1688810583&semt=ais",
-  "researchPaper1Title": "Marine Biology Research in Chittagong Coastal Region",
-  "researchPaper1Link": "https://www.researchgate.net/publication/235354652_Biological_Aspects_of_the_Coastal_and_Marine_Environment_of_Bangladesh",
-  "researchPaper2Title": "Environmental Studies and Conservation Efforts",
-  "researchPaper2Link": "https://www.researchgate.net/publication/338955297_Conservation_and_the_Environment"
-},
- 
- {
-  "collegeName": "Rajshahi College",
-  "graduatePicture": "https://img.freepik.com/free-photo/multinational-graduates-male-female-celebrating-graduation-university-campus-removing-their-graduation-hats-smiling-camera_496169-1297.jpg?size=626&ext=jpg&ga=GA1.2.1710214001.1688810583&semt=ais",
-  "researchPaper1Title": "History and Culture of Rajshahi Region",
-  "researchPaper1Link": "https://www.questjournals.org/jrhss/papers/vol8-issue12/4/G08124152.pdf",
-  "researchPaper2Title": "Economic Development and Agriculture",
-  "researchPaper2Link": "https://www.researchgate.net/publication/299691971_Agriculture_and_Economic_Development"
- },
- {
-  "collegeName": "Comilla Victoria Government College",
-  "graduatePicture": "https://img.freepik.com/free-photo/celebration-education-graduation-student-success-learning-concept_53876-147438.jpg?size=626&ext=jpg&ga=GA1.2.1710214001.1688810583&semt=ais",
-  "researchPaper1Title": "Literary Heritage of Comilla Region",
-      "researchPaper1Link": "https://www.researchgate.net/publication/327797189_Shalban_ViharaComillaMaynamatiBanglades",
-      "researchPaper2Title": "Historical Monuments and Architecture",
-      "researchPaper2Link": "https://core.ac.uk/download/pdf/61806253.pdf"
- },
- {
-  "collegeName": "Notre Dame College, Dhaka",
-  "graduatePicture": "https://img.freepik.com/premium-photo/students-university-people-wearing-mantles-group-students_115086-788.jpg?size=626&ext=jpg&ga=GA1.1.1710214001.1688810583&semt=ais",
-  "researchPaper1Title": "Education System: Challenges and Opportunities",
-      "researchPaper1Link": "https://www.researchgate.net/publication/349126023_Issues_and_Challenges_in_Education",
-      "researchPaper2Title": "Cultural Diversity and Integration",
-      "researchPaper2Link": "https://www.researchgate.net/publication/343940594_Multiculturalism_and_Integration_Challenges_Strategies_and_Prospects_of_Students_Integration_in_Educational_Environment_and_Society"
- },
- {
-  "collegeName": "Government Titumir College",
-  "graduatePicture": "https://img.freepik.com/premium-photo/happy-university-graduates-throwing-their-graduation-caps-into-air_627829-10090.jpg?size=626&ext=jpg&ga=GA1.1.1710214001.1688810583&semt=ais",
-  "researchPaper1Title": "Role of Higher Education in Socioeconomic Development",
-      "researchPaper1Link": "https://www.researchgate.net/publication/320912590_The_Role_of_Higher_Education_in_the_Socio-Economic_Development_of_Peripheral_Regions",
-      "researchPaper2Title": "Climate Change and Sustainable Solutions",
-      "researchPaper2Link": "https://www.researchgate.net/publication/350764166_Effects_of_climate_change_on_environmental_sustainability"
- },
- {
-  "collegeName": "Dhaka City College",
-  "graduatePicture": "https://img.freepik.com/premium-photo/student-education-school-academic-friends_53876-38896.jpg?size=626&ext=jpg&ga=GA1.1.1710214001.1688810583&semt=ais",
-  "researchPaper1Title": "Urbanization and Urban Planning",
-      "researchPaper1Link": "https://www.researchgate.net/publication/357469538_Urbanization_in_Bangladesh",
-      "researchPaper2Title": "Technological Innovations and Impact",
-      "researchPaper2Link": "https://www.researchgate.net/publication/353007338_Impact_of_Technological_Innovation_Research_and_Development_on_the_Defense_Economy_-_Iran_Country"
- },
- {
-  "collegeName": "Jahangirnagar University College",
-  "graduatePicture": "https://img.freepik.com/free-photo/happy-graduated-students_23-2148522262.jpg?size=626&ext=jpg&ga=GA1.1.1710214001.1688810583&semt=ais",
-  "researchPaper1Title": "Biodiversity Conservation and Ecological Balance",
-  "researchPaper1Link": "https://www.researchgate.net/publication/342625136_Necessity_of_Ecological_Balance_for_Widespread_Biodiversity",
-  "researchPaper2Title": "Rural Development and Livelihood",
-  "researchPaper2Link": "https://www.researchgate.net/publication/228965216_Livelihood_Perspectives_and_Rural_Development"
+   "title": "Artificial Intelligence in Healthcare",
+   "faculty": "Prof. Jane Doe",
+   "description": "Exploring the application of AI in diagnosing and treating medical conditions."
  }
-]
+],
+ "researchHistory": "Founded in 1950, renowned for research in Science and Technology",
+ "sports": {
+  "teamSports": ["Football", "Basketball", "Volleyball"],
+  "individualSports": ["Tennis", "Swimming", "Athletics"]
+}
+},
+{
+ "collegeImage": "https://img.freepik.com/free-photo/aerial-view-residence-bukovinian-dalmatian-metropolitans-chernivtsi-national-university-chernivtsi-touristic-destination-western-ukraine_231208-45.jpg?size=626&ext=jpg&ga=GA1.1.1710214001.1688810583&semt=ais",
+ "collegeName": "Chittagong College",
+ "admissionDates": "October 1 - November 15",
+ "admissionProcess": "Admissions are based on the performance in the national-level engineering entrance exam.",
+ "events": [
+  {
+    "eventName": "Annual Cultural Fest",
+    "date": "October 5-7",
+    "location": "College Grounds",
+    "description": "A celebration of diversity and talent through music, dance, and drama performances."
+  },
+  {
+    "eventName": "Tech Expo",
+    "date": "February 15-17",
+    "location": "College Exhibition Hall",
+    "description": "An exhibition displaying the latest technological innovations by students and faculty."
+  }
+],
+"researchWorks": [
+  {
+    "title": "Robotics and Automation",
+    "faculty": "Prof. Michael Johnson",
+    "description": "Research on developing autonomous robots for industrial applications."
+  },
+  {
+    "title": "Renewable Energy Sources",
+    "faculty": "Dr. Sarah Lee",
+    "description": "Studying the feasibility of using renewable energy in rural areas."
+  }
+],
+"researchHistory": "Pioneer in Social Sciences since 1975",
+
+"sports": {
+  "teamSports": ["Cricket", "Hockey", "Kabaddi"],
+  "individualSports": ["Badminton", "Table Tennis", "Chess"]
+}
+},
+{
+ "collegeImage": "https://i.ibb.co/VWHzTbX/Administrative-building-of-Rajshahi-College-01.jpg",
+ "collegeName": "Rajshahi College",
+ "admissionDates": "June 15 - July 31",
+ "admissionProcess": "Through national-level entrance exam",
+ "events": [
+  {
+    "eventName": "Freshers' Welcome Party",
+    "date": "September 10",
+    "location": "College Auditorium",
+    "description": "A fun-filled event to welcome new students and introduce them to college life."
+  },
+  {
+    "eventName": "Tech Fest",
+    "date": "November 20-22",
+    "location": "College Campus",
+    "description": "A technical extravaganza showcasing the innovative projects and talents of students."
+  }
+],
+"researchWorks": [
+  {
+    "title": "Study on Climate Change",
+    "faculty": "Dr. John Smith",
+    "description": "Research analyzing the impact of climate change on local ecosystems."
+  },
+  {
+    "title": "Artificial Intelligence in Healthcare",
+    "faculty": "Prof. Jane Doe",
+    "description": "Exploring the application of AI in diagnosing and treating medical conditions."
+  }
+],
+"researchHistory": "Leader in Computer Science research since 1980",
+"sports": {
+  "teamSports": ["Football", "Basketball", "Volleyball"],
+  "individualSports": ["Tennis", "Swimming", "Athletics"]
+}
+ 
+},
+{
+ "collegeImage": "https://img.freepik.com/premium-photo/harrisonburg-virginia-usa-james-madison-university_303206-87.jpg?size=626&ext=jpg&ga=GA1.1.1710214001.1688810583&semt=ais",
+ "collegeName": "Comilla Victoria Government College",
+ "admissionProcess": "Admissions are based on the candidate's portfolio and an entrance test for arts programs.",
+      "events": [
+        {
+          "eventName": "Art Exhibition",
+          "date": "September 25-30",
+          "location": "College Gallery",
+          "description": "An exhibition showcasing the creative artwork of students and faculty."
+        },
+        {
+          "eventName": "Cultural Night",
+          "date": "November 15",
+          "location": "Open Air Theater",
+          "description": "An evening of cultural performances, music, and dance."
+        }
+      ],
+      "researchWorks": [
+        {
+          "title": "Modern Art Movements",
+          "faculty": "Prof. Emily Johnson",
+          "description": "Studying the evolution of modern art movements and their impact on society."
+        },
+        {
+          "title": "Visual Communication Design",
+          "faculty": "Dr. Mark Wilson",
+          "description": "Research on using visual communication for social awareness campaigns."
+        }
+      ],
+      "researchHistory": "Prominent in Fine Arts and Humanities since 1965",
+      "sports": {
+        "teamSports": ["Football", "Basketball", "Handball"],
+        "individualSports": ["Squash", "Table Tennis", "Gymnastics"]
+      }
+ 
+},
+{
+ "collegeImage": "https://img.freepik.com/free-photo/aerial-view-residence-bukovinian-dalmatian-metropolitans-chernivtsi-national-university-chernivtsi-touristic-destination-western-ukraine_231208-41.jpg?size=626&ext=jpg&ga=GA1.1.1710214001.1688810583&semt=ais",
+ "collegeName": "Notre Dame College, Dhaka",
+ "admissionDates": "February 15 - March 31",
+ "admissionProcess": "Admissions are through a national medical entrance exam and counseling process.",
+ "events": [
+   {
+     "eventName": "White Coat Ceremony",
+     "date": "June 25",
+     "location": "College Auditorium",
+     "description": "A significant event where new medical students receive their white coats."
+   },
+   {
+     "eventName": "Medical Symposium",
+     "date": "December 10-12",
+     "location": "College Conference Hall",
+     "description": "An academic event bringing together medical professionals and students to discuss healthcare advancements."
+   }
+ ],
+ "researchWorks": [
+   {
+     "title": "Cancer Research",
+     "faculty": "Dr. William Davis",
+     "description": "Research focused on finding effective treatments for different types of cancer."
+   },
+   {
+     "title": "Infectious Diseases",
+     "faculty": "Prof. Laura Adams",
+     "description": "Studying infectious diseases and their prevention strategies."
+   }
+ ],
+ "researchHistory": "Leading Medical research institute since 1978",
+ "sports": {
+   "teamSports": ["Football", "Cricket", "Hockey"],
+   "individualSports": ["Badminton", "Table Tennis", "Chess"]
+ }
+},
+{
+ "collegeImage": "https://img.freepik.com/premium-photo/st-john-s-college-cambridge_1339-122931.jpg?size=626&ext=jpg&ga=GA1.1.1710214001.1688810583&semt=ais",
+ "collegeName": "Government Titumir College",
+ "admissionDates": "December 1 - January 15",
+ "admissionProcess": "Admissions are based on academic performance, entrance exam, and personal interview.",
+ "events": [
+   {
+     "eventName": "Leadership Summit",
+     "date": "October 15-16",
+     "location": "College Seminar Hall",
+     "description": "A conference where industry leaders share their insights on leadership and management."
+   },
+   {
+     "eventName": "Entrepreneurship Week",
+     "date": "February 20-26",
+     "location": "College Incubation Center",
+     "description": "A week-long event to promote entrepreneurship and innovation."
+   }
+ ],
+ "researchWorks": [
+   {
+     "title": "Business Ethics",
+     "faculty": "Prof. James Miller",
+     "description": "Research exploring the role of ethics in modern business practices."
+   },
+   {
+     "title": "Digital Marketing Trends",
+     "faculty": "Dr. Emma Brown",
+     "description": "Studying the latest trends and strategies in digital marketing."
+   }
+ ],
+ "researchHistory": "Top-notch Engineering research center since 1985",
+ "sports": {
+   "teamSports": ["Football", "Basketball", "Volleyball"],
+   "individualSports": ["Badminton", "Table Tennis", "Golf"]
+ }
+},
+{
+ "collegeImage": "https://img.freepik.com/premium-photo/presidential-palace-rashtrapati-bhavan-new-delhi-india_400112-364.jpg?size=626&ext=jpg&ga=GA1.1.1710214001.1688810583&semt=ais",
+ "collegeName": "Dhaka City College",
+ "admissionDates": "June 1 - July 30",
+ "admissionProcess": "Admissions are based on the law entrance exam and personal interview.",
+      "events": [
+        {
+          "eventName": "Legal Aid Camp",
+          "date": "September 5",
+          "location": "College Law Clinic",
+          "description": "An event offering free legal aid to underprivileged individuals."
+        },
+        {
+          "eventName": "Moot Court Competition",
+          "date": "November 8-10",
+          "location": "College Moot Courtroom",
+          "description": "A simulated court competition to enhance students' advocacy skills."
+        }
+      ],
+      "researchWorks": [
+        {
+          "title": "Criminal Justice System",
+          "faculty": "Prof. Rachel Thompson",
+          "description": "Research analyzing the efficiency and reforms needed in the criminal justice system."
+        },
+        {
+          "title": "Environmental Law",
+          "faculty": "Dr. Michael Adams",
+          "description": "Studying laws and regulations to protect the environment and natural resources."
+        }
+      ],
+      "researchHistory": "Established as a premier Business School in 1990",
+      "sports": {
+        "teamSports": ["Cricket", "Football", "Basketball"],
+        "individualSports": ["Badminton", "Table Tennis", "Athletics"]
+      }
+},
+{
+ "collegeImage": "https://img.freepik.com/free-photo/st-michael-s-castle-saint-petersburg_1398-2714.jpg?size=626&ext=jpg&ga=GA1.1.1710214001.1688810583&semt=ais",
+ "collegeName": "Jahangirnagar University College",
+ "admissionDates": "May 1 - June 30",
+ "admissionProcess": "Admissions are based on auditions and interviews for music programs.",
+      "events": [
+        {
+          "eventName": "Annual Music Festival",
+          "date": "October 20-25",
+          "location": "College Amphitheater",
+          "description": "A week-long celebration of music with performances by students and guest artists."
+        },
+        {
+          "eventName": "Jazz Night",
+          "date": "February 5",
+          "location": "College Jazz Club",
+          "description": "An evening dedicated to jazz performances and improvisations."
+        }
+      ],
+      "researchWorks": [
+        {
+          "title": "Music Therapy",
+          "faculty": "Prof. Sarah Johnson",
+          "description": "Research on the therapeutic effects of music on mental health."
+        },
+        {
+          "title": "Folk Music Traditions",
+          "faculty": "Dr. Robert Wilson",
+          "description": "Studying the traditional folk music of various cultures and regions."
+        }
+      ],
+      "researchHistory": "Renowned for Legal Studies since 1972",
+      "sports": {
+        "teamSports": ["Football", "Cricket", "Basketball"],
+        "individualSports": ["Chess", "Badminton", "Table Tennis"]
+      }
+
+}]
