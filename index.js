@@ -24,9 +24,14 @@ async function run() {
     await client.connect();
  const collegeCollection=client.db('collegeBooking').collection('colleges')
  const galleryCollection=client.db('collegeBooking').collection('gallery')
+ const admissionCollection=client.db('collegeBooking').collection('admission')
 
  app.get('/colleges', async(req,res)=>{
   const result=await collegeCollection.find().limit(3).toArray()
+  res.send(result)
+ })
+ app.get('/home/colleges', async(req,res)=>{
+  const result=await collegeCollection.find().toArray()
   res.send(result)
  })
  app.get('/college/:id',async(req,res)=>{
@@ -41,6 +46,21 @@ async function run() {
  })
  app.get('/research', async(req,res)=>{
   const result=await galleryCollection.find().toArray();
+  res.send(result)
+ })
+ 
+ app.get('/admission', async (req, res) => {
+  let query = {};
+  if (req.query && req.query.email) {
+    query = { email: req.query.email };
+  }
+  const result = await admissionCollection.find(query).toArray();
+  res.send(result);
+});
+
+ app.post('/admission',async(req,res)=>{
+  const admissionInfo=req.body
+  const result=await admissionCollection.insertOne(admissionInfo)
   res.send(result)
  })
 

@@ -3,6 +3,7 @@
  "collegeImage": "https://i.ibb.co/7v74gQQ/download-3.jpg",
  "collegeName": "Dhaka College",
  "admissionDates": "August 1 - September 30",
+ "rating":"4",
  "admissionProcess": "Admissions are done through an online application form. Shortlisted candidates will have to appear for an entrance exam and interview.",
  "events": [
   {
@@ -40,6 +41,7 @@
  "collegeImage": "https://img.freepik.com/free-photo/aerial-view-residence-bukovinian-dalmatian-metropolitans-chernivtsi-national-university-chernivtsi-touristic-destination-western-ukraine_231208-45.jpg?size=626&ext=jpg&ga=GA1.1.1710214001.1688810583&semt=ais",
  "collegeName": "Chittagong College",
  "admissionDates": "October 1 - November 15",
+ "rating":"4.5",
  "admissionProcess": "Admissions are based on the performance in the national-level engineering entrance exam.",
  "events": [
   {
@@ -78,6 +80,8 @@
  "collegeImage": "https://i.ibb.co/VWHzTbX/Administrative-building-of-Rajshahi-College-01.jpg",
  "collegeName": "Rajshahi College",
  "admissionDates": "June 15 - July 31",
+ "rating":"5",
+
  "admissionProcess": "Through national-level entrance exam",
  "events": [
   {
@@ -115,6 +119,9 @@
 {
  "collegeImage": "https://img.freepik.com/premium-photo/harrisonburg-virginia-usa-james-madison-university_303206-87.jpg?size=626&ext=jpg&ga=GA1.1.1710214001.1688810583&semt=ais",
  "collegeName": "Comilla Victoria Government College",
+ "admissionDates": "June 15 - July 31",
+ "rating":"3.5",
+
  "admissionProcess": "Admissions are based on the candidate's portfolio and an entrance test for arts programs.",
       "events": [
         {
@@ -153,6 +160,8 @@
  "collegeImage": "https://img.freepik.com/free-photo/aerial-view-residence-bukovinian-dalmatian-metropolitans-chernivtsi-national-university-chernivtsi-touristic-destination-western-ukraine_231208-41.jpg?size=626&ext=jpg&ga=GA1.1.1710214001.1688810583&semt=ais",
  "collegeName": "Notre Dame College, Dhaka",
  "admissionDates": "February 15 - March 31",
+ "rating":"4.5",
+
  "admissionProcess": "Admissions are through a national medical entrance exam and counseling process.",
  "events": [
    {
@@ -190,6 +199,8 @@
  "collegeImage": "https://img.freepik.com/premium-photo/st-john-s-college-cambridge_1339-122931.jpg?size=626&ext=jpg&ga=GA1.1.1710214001.1688810583&semt=ais",
  "collegeName": "Government Titumir College",
  "admissionDates": "December 1 - January 15",
+ "rating":"4",
+
  "admissionProcess": "Admissions are based on academic performance, entrance exam, and personal interview.",
  "events": [
    {
@@ -227,6 +238,8 @@
  "collegeImage": "https://img.freepik.com/premium-photo/presidential-palace-rashtrapati-bhavan-new-delhi-india_400112-364.jpg?size=626&ext=jpg&ga=GA1.1.1710214001.1688810583&semt=ais",
  "collegeName": "Dhaka City College",
  "admissionDates": "June 1 - July 30",
+ "rating":"5",
+
  "admissionProcess": "Admissions are based on the law entrance exam and personal interview.",
       "events": [
         {
@@ -264,6 +277,8 @@
  "collegeImage": "https://img.freepik.com/free-photo/st-michael-s-castle-saint-petersburg_1398-2714.jpg?size=626&ext=jpg&ga=GA1.1.1710214001.1688810583&semt=ais",
  "collegeName": "Jahangirnagar University College",
  "admissionDates": "May 1 - June 30",
+ "rating":"3",
+
  "admissionProcess": "Admissions are based on auditions and interviews for music programs.",
       "events": [
         {
