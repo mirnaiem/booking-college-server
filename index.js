@@ -21,10 +21,11 @@ const client = new MongoClient(uri, {
 async function run() {
   try {
     // Connect the client to the server	(optional starting in v4.7)
-    await client.connect();
+    // await client.connect();
  const collegeCollection=client.db('collegeBooking').collection('colleges')
  const galleryCollection=client.db('collegeBooking').collection('gallery')
  const admissionCollection=client.db('collegeBooking').collection('admission')
+ const reviewCollection=client.db('collegeBooking').collection('review')
 
  app.get('/colleges', async(req,res)=>{
   const result=await collegeCollection.find().limit(3).toArray()
@@ -48,7 +49,7 @@ async function run() {
   const result=await galleryCollection.find().toArray();
   res.send(result)
  })
- 
+
  app.get('/admission', async (req, res) => {
   let query = {};
   if (req.query && req.query.email) {
@@ -61,6 +62,16 @@ async function run() {
  app.post('/admission',async(req,res)=>{
   const admissionInfo=req.body
   const result=await admissionCollection.insertOne(admissionInfo)
+  res.send(result)
+ })
+ app.post('/reviews',async(req,res)=>{
+  const review=req.body
+  console.log(review);
+  const result=await reviewCollection.insertOne(review)
+  res.send(result)
+ })
+ app.get('/reviews',async(req,res)=>{
+  const result=await reviewCollection.find().toArray()
   res.send(result)
  })
 
